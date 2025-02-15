@@ -18,7 +18,7 @@ const styles = StyleSheet?.create({
     maxWidth: wp('58'),
   },
   container1: {
-    marginTop: hp('25'),
+    marginTop: hp('21'),
     alignItems: 'center',
   },
   subLabel: {
