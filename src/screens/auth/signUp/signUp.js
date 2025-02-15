@@ -61,7 +61,7 @@ const signUp = () => {
           rightIcon={<EyeClose />}
         />
 
-        <View style={{...styles?.row, marginTop: hp('6')}}>
+        <View style={{...styles?.row, marginTop: hp('7')}}>
           <Text13 textStyle={styles?.txt}>i have read the </Text13>
           <Text13 textStyle={{...styles?.txt, ...styles?.txt1}}>
             Privacy Policy
